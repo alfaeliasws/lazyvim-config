@@ -1,0 +1,5 @@
+return {
+  {
+    { "jszakmeister/vim-togglecursor" },
+  },
+}
